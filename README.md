@@ -123,8 +123,6 @@ output/imagegen/<project-name>/
 output/video/<project-name>/
 ```
 
-其中 `output/` 是生成产物目录，不建议提交到 GitHub。
-
 ## 注意事项
 
 - 技能默认使用中文输出，适合中文短剧工作流。
